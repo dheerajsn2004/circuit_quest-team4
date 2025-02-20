@@ -1,5 +1,5 @@
 const questions = [
-    { q: "My resistance fades as the sun gazes upon me, but when night falls, I stand firm against the current. What am I?", a: "LDR", room: "Room 303" },
+    { q: "My resistance fades as the sun gazes upon me, but when night falls, I stand firm against the current. What am I?", a: "LDR || Light Dependent Resistor", room: "Room 303" },
     { q: "A mere flicker of control at my heart dictates then fate of a greater force. I do not create, but I command, shaping the strength of what flows through me. Who am I?", a: "BJT || Transistor", room: "Room 405" },
     { q: "Silence is my nature until a pulse awakens me, and then I cry out with steady vibrations. What am I?", a: "Buzzer", room: "AEC Lab" }
 ];
